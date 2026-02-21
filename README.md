@@ -1,2 +1,1 @@
-# auis
-===we're not ready===
+# auiss 업데이트실
